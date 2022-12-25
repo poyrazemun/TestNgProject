@@ -7,6 +7,9 @@ public class Uros {
     @Test
     public void urosTest() {
         System.out.println("Omer");
+        System.out.println("Uros");
     }
+
+
 
 }

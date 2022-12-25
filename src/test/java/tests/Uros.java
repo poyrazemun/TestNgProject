@@ -8,6 +8,7 @@ public class Uros {
     public void urosTest() {
         System.out.println("Omer");
         System.out.println("Uros");
+        System.out.println("Duvaj ga");
     }
 
 
